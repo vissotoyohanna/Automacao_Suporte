@@ -1,0 +1,7 @@
+ID,Data,Descricao,Categoria
+101,2026-08-20,Motorista relata perda de sinal do rastreador na BR-101.,Telemetria/GPS
+102,2026-08-20,"Não consigo fazer login no painel, diz senha incorreta.",Autenticação
+103,2026-08-20,A tela do tablet do caminhão quebrou.,Hardware
+104,2026-08-21,Equipamento parou de enviar posição de GPS.,Telemetria/GPS
+105,2026-08-21,Preciso de ajuda para resetar minha senha de acesso.,Autenticação
+106,2026-08-21,Dúvida sobre como exportar o relatório de rotas.,Dúvidas Gerais
